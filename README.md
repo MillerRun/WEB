@@ -11,4 +11,5 @@ Description:
   - sign in page (signin.html + signin.css)
   - sign up page (signup.html + signup.css)
   Pages are linked to each other with navigation bar (navbar.css) and footer (footer.css)
+  
   Backend (main.js) is not ready yet.
